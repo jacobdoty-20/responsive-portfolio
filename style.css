@@ -23,6 +23,20 @@ nav {
     
 }
 
+.mysPics {
+    border-radius: 8px;
+    max-width: 60%;
+    height: auto;
+    display: center;
+    margin: 0%;
+    padding-bottom: 10px;
+    padding-right: 3px;
+    float:left;
+    /* max-width: 350px;
+    height: auto;
+    position: relative; */
+}
+
 .sectionsFormat {
     position: relative;
     padding-bottom: 5%;
