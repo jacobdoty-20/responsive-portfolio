@@ -1,0 +1,25 @@
+.container {
+    background-color: rgb(218, 212, 212);
+
+}
+nav {
+    background-color: cadetblue;
+}
+.headersColor {
+    color:brown;
+    border-bottom: darkred;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: cadetblue;
+    color: salmon;
+}
+
+.sectionsFormat {
+    position: relative;
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+  
