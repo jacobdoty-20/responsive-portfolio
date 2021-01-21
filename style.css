@@ -3,7 +3,7 @@
 
 }
 nav {
-    background-color: cadetblue;
+    background-color: darksalmon;
 }
 .headersColor {
     color:brown;
@@ -25,16 +25,15 @@ nav {
 
 .mysPics {
     border-radius: 8px;
-    max-width: 60%;
+    max-width: 300px;
+    /* max-height: 300px; */
     height: auto;
     display: center;
     margin: 0%;
     padding-bottom: 10px;
     padding-right: 3px;
     float:left;
-    /* max-width: 350px;
-    height: auto;
-    position: relative; */
+
 }
 
 .sectionsFormat {
@@ -49,4 +48,8 @@ footer {
     padding: 3px;
     background-color: cadetblue;
     color: salmon;
+}
+
+.bgrcolor {
+    background-color: beige;
 }
